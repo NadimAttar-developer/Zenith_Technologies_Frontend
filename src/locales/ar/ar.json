@@ -1,0 +1,12 @@
+{
+  "users": "المستخدمون",
+  "products": "المنتجات",
+  "firstName": "الاسم الأول",
+  "lastName": "الاسم الأخير",
+  "age": "العمر",
+  "mobileNumber": "رقم الهاتف",
+  "product-name": "اسم المنتج",
+  "category": "الفئة",
+  "price": "السعر",
+  "quantity": "الكمية"
+}

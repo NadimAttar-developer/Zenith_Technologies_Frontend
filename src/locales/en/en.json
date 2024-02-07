@@ -1,0 +1,12 @@
+{
+  "users": "Users",
+  "products": "Products",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "age": "Age",
+  "mobileNumber": "Mobile Number",
+  "product-name": "Product name",
+  "category": "Category",
+  "price": "Price",
+  "quantity": "Quantity"
+}
